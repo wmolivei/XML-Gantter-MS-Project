@@ -24,7 +24,7 @@ $P_DefaultFinishTime   			= $xmlDoc->createElement('DefaultFinishTime' ,'17:00:0
 $P_MinutesPerDay       			= $xmlDoc->createElement('MinutesPerDay', '480');
 $P_MinutesPerWeek      			= $xmlDoc->createElement('MinutesPerWeek', '2400');
 $P_DaysPerMonth        			= $xmlDoc->createElement('DaysPerMonth', '20');
-$P_WeekStartDay        			= $xmlDoc->createElement('WeekStartDay','0');
+$P_WeekStartDay        			= $xmlDoc->createElement('WeekStartDay','0'); 
 
 //tasks
 $P_Tasks  						      = $xmlDoc->createElement('Tasks');
